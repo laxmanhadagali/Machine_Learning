@@ -60,3 +60,13 @@ Each project demonstrates:
 
 
 
+
+##  Section 1: Python Libraries for Data Science
+### Day 1 – NumPy Basics
+
+- Introduction to NumPy
+- Creating and manipulating arrays
+- Array indexing, slicing, reshaping
+- Mathematical operations on arrays
+- Aggregation functions (sum, mean, std)
+- Built-in Functions To Generate Numpy Arrays
