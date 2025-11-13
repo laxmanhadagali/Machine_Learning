@@ -70,3 +70,11 @@ Each project demonstrates:
 - Mathematical operations on arrays
 - Aggregation functions (sum, mean, std)
 - Built-in Functions To Generate Numpy Arrays
+
+## Day 2 – Pandas Basics
+
+- Series and DataFrame creation
+- Reading CSV/Excel files
+- Data selection (loc, iloc)
+- Data cleaning (missing values, duplicates)
+- GroupBy and Aggregations
