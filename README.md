@@ -78,3 +78,10 @@ Each project demonstrates:
 - Data selection (loc, iloc)
 - Data cleaning (missing values, duplicates)
 - GroupBy and Aggregations
+
+## Day 3 – Data Visualization
+
+- Matplotlib: Line, bar, histogram, scatter, pie charts
+- Seaborn: Pairplot, heatmap, boxplot, countplot
+- Styling and labeling charts
+- Mini Project: Visualizing dataset relationships (like Iris dataset)
