@@ -85,3 +85,11 @@ Each project demonstrates:
 - Seaborn: Pairplot, heatmap, boxplot, countplot
 - Styling and labeling charts
 - Mini Project: Visualizing dataset relationships (like Iris dataset)
+
+# Section 2: Machine Learning Fundamentals
+## Day 4 – Introduction to Machine Learning
+
+- What is ML?
+- Types of ML (Supervised, Unsupervised, Reinforcement)
+- Understanding features and labels
+- Dataset splitting (Train/Test)
