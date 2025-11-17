@@ -93,3 +93,10 @@ Each project demonstrates:
 - Types of ML (Supervised, Unsupervised, Reinforcement)
 - Understanding features and labels
 - Dataset splitting (Train/Test)
+
+## Day 5 – Linear Regression
+
+- Simple & Multiple Linear Regression
+- Using sklearn.linear_model.LinearRegression
+- Model evaluation (R² Score, MAE, RMSE)
+- Project: Predicting the total sales based on the money spent on Advertising
