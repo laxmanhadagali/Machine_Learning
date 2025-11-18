@@ -100,3 +100,10 @@ Each project demonstrates:
 - Using sklearn.linear_model.LinearRegression
 - Model evaluation (R² Score, MAE, RMSE)
 - Project: Predicting the total sales based on the money spent on Advertising
+
+## Day 6 – Logistic Regression
+
+- Binary classification concepts
+- Confusion matrix, accuracy, precision, recall
+- ROC-AUC curve
+ Project: Predict whether a Person is diabetic or non-diabetic
