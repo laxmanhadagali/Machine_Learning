@@ -106,4 +106,11 @@ Each project demonstrates:
 - Binary classification concepts
 - Confusion matrix, accuracy, precision, recall
 - ROC-AUC curve
- Project: Predict whether a Person is diabetic or non-diabetic
+- Project: Predict whether a Person is diabetic or non-diabetic
+
+## Day 7 – K-Means Clustering
+
+- ncept of clustering (Unsupervised Learning)
+- Choosing k (Elbow Method)
+- Visualizing clusters
+- Project: Species segmentation
