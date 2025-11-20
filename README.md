@@ -114,3 +114,9 @@ Each project demonstrates:
 - Choosing k (Elbow Method)
 - Visualizing clusters
 - Project: Species segmentation
+
+## Day 8 – Decision Tree 
+
+- Tree structure and splitting criteria (Gini, Entropy)
+- Overfitting and post-pruning
+
