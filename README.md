@@ -120,3 +120,11 @@ Each project demonstrates:
 - Tree structure and splitting criteria (Gini, Entropy)
 - Overfitting and post-pruning
 
+##  Day 9 - Decision Tree & Random Forest
+
+- Overfitting and pre-pruning
+- Random Forest ensemble
+- GradientBoosting
+- XGBoosting
+
+
