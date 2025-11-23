@@ -134,4 +134,14 @@ Each project demonstrates:
 - Classification example with visualization
 - Project:predicting loan approved or not based on given features
 
+# Section 3: Feature Engineering and  Advanced Topics
+## Day 10 – Model Evaluation and Optimization
+- Encoding Catyegorical variables 
+- Feature Transformation
+- Cross Validation
+- Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)
+- Feature Scaling (StandardScaler, MinMaxScaler)
+- Handling Imbalanced data
+- dimensionality Reduction
+
 
