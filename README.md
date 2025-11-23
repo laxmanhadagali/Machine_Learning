@@ -127,4 +127,11 @@ Each project demonstrates:
 - GradientBoosting
 - XGBoosting
 
+##  Day 10 - Support Vector Machine (SVM)
+
+- Concept of hyperplane and margin
+- Kernel types (linear, rbf, polynomial)
+- Classification example with visualization
+- Project:predicting loan approved or not based on given features
+
 
