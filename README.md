@@ -142,6 +142,13 @@ Each project demonstrates:
 - Hyperparameter Tuning (GridSearchCV, RandomizedSearchCV)
 - Feature Scaling (StandardScaler, MinMaxScaler)
 - Handling Imbalanced data
-- dimensionality Reduction
+
+## Day 12 – Principal Component Analysis (PCA)
+
+- Dimensionality reduction concept
+
+- Explained variance and visualization
+
+
 
 
